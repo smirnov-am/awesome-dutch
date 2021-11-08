@@ -13,5 +13,8 @@ Feel free to contribute to this list by submitting a PR
 ## Space
 [European Space Agency](https://www.youtube.com/watch?v=ijETgqZZ3YQ&list=PLbyvawxScNbs-7xR5B6QgJeEK89RtGdoK) - a playlist with short videos about space from ESA for kids. 
 
+## Humor 
+[De Ideale Wereld](https://www.youtube.com/user/DeIdealeWereld) - Belgian sketch show. Dutch subs.
+
 ## Crazy stuff
-[Drugslab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ) - hosts use recreatinal drugs and films the effects. English subs.
+[Drugslab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ) - hosts use recreational drugs and film the effects. English subs.
