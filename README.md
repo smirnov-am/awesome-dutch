@@ -9,3 +9,7 @@ Feel free to contribute to this list by submitting a PR
 
 ## News
 [NOS Jeugdjournaal](https://www.youtube.com/c/jeugdjournaal) - Youtube channel with laidback news. Some clips have Dutch subtitles.
+
+
+## Crazy stuff
+[Drugslab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ) - hosts use recreatinal drugs and films the effects. English subs.
