@@ -16,6 +16,8 @@ Feel free to contribute to this list by submitting a PR
 
 [NOS Jeugdjournaal](https://www.youtube.com/c/jeugdjournaal) - Youtube channel with laidback news. Some clips have Dutch subtitles.
 
+[NOS op 3](https://www.youtube.com/channel/UCf63l7Wp_wX7T-5ChM_Km9Q) - video esseays about current matters in the Netherlands. Dutch subs
+
 ## Space
 
 [European Space Agency](https://www.youtube.com/watch?v=ijETgqZZ3YQ&list=PLbyvawxScNbs-7xR5B6QgJeEK89RtGdoK) - a playlist with short videos about space from ESA for kids. 
