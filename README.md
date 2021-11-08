@@ -28,6 +28,8 @@ Feel free to contribute to this list by submitting a PR
 
 [De Ideale Wereld](https://www.youtube.com/user/DeIdealeWereld) - Belgian sketch show. Dutch subs.
 
+[Draadstaal](https://www.npostart.nl/draadstaal/AT_2033696) - Sketch show. Dutch subs
+
 ## Crazy stuff
 
 [Drugslab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ) - hosts use recreational drugs and film the effects. English subs.
