@@ -6,6 +6,7 @@ Feel free to contribute to this list by submitting a PR
 
 ## Travel
 [Ik vertrek](https://www.npostart.nl/ik-vertrek/AT_2032968) - TV show about dutch who moved countries. Dutch subs
+[Jeroen Boersma](https://vm.tiktok.com/ZM8CLAPtj) - TikTok vlog of a Dutch guy living in USA. Dutch subs
 
 ## News
 [NOS Jeugdjournaal](https://www.youtube.com/c/jeugdjournaal) - Youtube channel with laidback news. Some clips have Dutch subtitles.
