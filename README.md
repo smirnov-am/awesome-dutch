@@ -18,6 +18,8 @@ Feel free to contribute to this list by submitting a PR
 
 [NOS op 3](https://www.youtube.com/channel/UCf63l7Wp_wX7T-5ChM_Km9Q) - video esseays about current matters in the Netherlands. Dutch subs
 
+[Net in Nederland](https://npokennis.nl/program/13/net-in-nederland) - simple news for newcomers.
+
 ## Space
 
 [European Space Agency](https://www.youtube.com/watch?v=ijETgqZZ3YQ&list=PLbyvawxScNbs-7xR5B6QgJeEK89RtGdoK) - a playlist with short videos about space from ESA for kids. 
