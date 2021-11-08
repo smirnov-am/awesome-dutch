@@ -33,3 +33,7 @@ Feel free to contribute to this list by submitting a PR
 ## Crazy stuff
 
 [Drugslab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ) - hosts use recreational drugs and film the effects. English subs.
+
+## Gardening
+
+[Appeltern](https://appeltern.nl/nl/tuinadvies/) - articles with gardening tips
