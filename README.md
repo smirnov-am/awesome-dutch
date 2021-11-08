@@ -5,17 +5,23 @@ In this list I'll gather links to such materials organized by category. You'll n
 Feel free to contribute to this list by submitting a PR
 
 ## Travel
+
 [Ik vertrek](https://www.npostart.nl/ik-vertrek/AT_2032968) - TV show about dutch who moved countries. Dutch subs
+
 [Jeroen Boersma](https://vm.tiktok.com/ZM8CLAPtj) - TikTok vlog of a Dutch guy living in USA. Dutch subs
 
 ## News
+
 [NOS Jeugdjournaal](https://www.youtube.com/c/jeugdjournaal) - Youtube channel with laidback news. Some clips have Dutch subtitles.
 
 ## Space
+
 [European Space Agency](https://www.youtube.com/watch?v=ijETgqZZ3YQ&list=PLbyvawxScNbs-7xR5B6QgJeEK89RtGdoK) - a playlist with short videos about space from ESA for kids. 
 
 ## Humor 
+
 [De Ideale Wereld](https://www.youtube.com/user/DeIdealeWereld) - Belgian sketch show. Dutch subs.
 
 ## Crazy stuff
+
 [Drugslab](https://www.youtube.com/channel/UCvRQKXtIGcK1yEnQ4Te8hWQ) - hosts use recreational drugs and film the effects. English subs.
