@@ -5,7 +5,7 @@ In this list I'll gather links to such materials organized by category. You'll n
 Feel free to contribute to this list by submitting a PR
 
 ## Travel
-
+[Ik vertrek](https://www.npostart.nl/ik-vertrek/AT_2032968) - TV show about dutch who moved countries. Dutch subs
 
 ## News
 [NOS Jeugdjournaal](https://www.youtube.com/c/jeugdjournaal) - Youtube channel with laidback news. Some clips have Dutch subtitles.
