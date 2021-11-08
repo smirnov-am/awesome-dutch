@@ -10,6 +10,8 @@ Feel free to contribute to this list by submitting a PR
 
 [Jeroen Boersma](https://vm.tiktok.com/ZM8CLAPtj) - TikTok vlog of a Dutch guy living in USA. Dutch subs
 
+[Easy Dutch](https://www.youtube.com/playlist?list=PLA5UIoabheFOF-wn5yKE8ZI8rmMQCTbMD) - a playlist with very slow walking tours 
+
 ## News
 
 [NOS Jeugdjournaal](https://www.youtube.com/c/jeugdjournaal) - Youtube channel with laidback news. Some clips have Dutch subtitles.
