@@ -36,6 +36,13 @@ Feel free to contribute to this list by submitting a PR
 
 [De geschiedenis van de Nederlandstalige literatuur](https://www.literatuurgeschiedenis.org/) - history of the Dutch literature. Texts are really advanced.
 
+## Cooking
+
+[Rutger Bakt](https://rutgerbakt.nl/) - baking recipies
+[FoodTube](https://www.youtube.com/user/foodtube/videos) - video recepies
+[Koken met Karin](https://www.kokenmetkarin.nl/) - recipies
+[Uit Paulines Keuken](https://uitpaulineskeuken.nl/) - recipies
+
 ## Humor 
 
 [De Ideale Wereld](https://www.youtube.com/user/DeIdealeWereld) - Belgian sketch show. Dutch subs.
