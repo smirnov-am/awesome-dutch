@@ -54,6 +54,8 @@ Feel free to contribute to this list by submitting a PR
 
 [Undercover](https://www.netflix.com/nl-en/title/80225312) - criminal drama. Dutch subtitles
 
+[Gooische Vrouwen](https://www.netflix.com/nl/title/70285663) - Dutch version of Desperate housewifes
+
 
 ## Art
 
